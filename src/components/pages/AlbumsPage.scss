@@ -1,0 +1,15 @@
+.album-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.photo-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 20%;
+}
+
+.photo {
+  margin-bottom: 20px;
+}
